@@ -30,4 +30,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: yb2023/sample-app:v1.0.0
+          tags: yb2023/sample-app:v1.0.1

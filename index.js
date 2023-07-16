@@ -1,5 +1,5 @@
 function sayHello() {
-  const message = "Hello, GitHub Actions!";
+  const message = "Hello, From Node js App Version 1.0.1";
   console.log(message);
 }
 

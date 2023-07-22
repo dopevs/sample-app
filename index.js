@@ -1,5 +1,5 @@
 function sayHello() {
-  const message = "Hello, From Node js App Version 1.0.2";
+  const message = "Hello, From Node js App Version 2.0.0";
   console.log(message);
 }
 
